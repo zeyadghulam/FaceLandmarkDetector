@@ -1,0 +1,1 @@
+This repository contains helper functions (in custom_setup.py) that allows for enabling camera access in Google Colab. Also there is a method called "find_skeleton" that find the facial landmarks through Google's MediaPipe in Google Colab.
